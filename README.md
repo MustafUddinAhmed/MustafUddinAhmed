@@ -5,7 +5,12 @@
 - 📫 How to reach me:- [LinkedIn Profile](https://www.linkedin.com/in/mustafuddinahmed/ "LinkedIn Profile")
 
 
-[![Mustaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=MustafUddinAhmed&count_private=true&show_icons=true&theme=radical)](https://github.com/MustafUddinAhmed/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MustafUddinAhmed&count_private=true&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafUddinAhmed&layout=compact" />
+</a>
 
 
 <!---
